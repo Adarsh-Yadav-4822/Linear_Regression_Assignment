@@ -12,7 +12,7 @@
 
 ## Multiple Linear Regression Model
 
-# Approach:
+### Approach:
 - Reading and Understanding the Data
 - Exploratory Data Analysis
 - Preparing the Data for Model
